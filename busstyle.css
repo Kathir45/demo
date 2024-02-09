@@ -1,0 +1,14 @@
+.pec-logo{
+    width: 40px;
+    height: 40px;
+}
+.navbar{
+    background-color: #ffdc00;
+}
+footer{
+    
+    text-align: center;
+    position: sticky;
+    bottom: 0;
+    
+}
